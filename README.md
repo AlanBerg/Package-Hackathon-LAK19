@@ -15,7 +15,7 @@ Data Scientists use tools to make their tasks easier. These tools may include GU
 # Expected Outcomes
 Consider initially developing dummy functions with documentation so as to scope out the core features of the library. Secondary, code the core feature set. 
 
-The main outcome is an initial R or Python library with many dummy functions scoping the broad range of functionality needed by data scientists to easily transition to coding Learning Analytic pipelines. Each function dummy or functional being fully documented so that in follow-on Hackathons the participants understand the intent. The initial package should contain fully descriptive documentation and stored in an open repository such as GitHub.
+The main outcome is an initial R or Python library with many dummy functions scoping the broad range of functionality needed by data scientists to easily transition to coding Learning Analytic pipelines. Each function dummy or functional being fully documented so that in follow-on Hackathons the participants understand the intent. The initial package should contain fully descriptive documentation and stored in this open GitHub [repository](https://github.com/AlanBerg/Package-Hackathon-LAK19).
 
 # Structure of Repositiory
 
